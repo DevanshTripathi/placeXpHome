@@ -1,0 +1,84 @@
+﻿.top {
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    clear: none;
+}
+
+    .top a {
+        font-size: 30px;
+        color: white;
+        font-family: Calibri;
+        text-decoration: none;
+        font-family: Courier New, Courier, monospace;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+        .top a:hover {
+            color: deeppink;
+        }
+
+
+#banner {
+    background-image: url("https://placexp.tech/static/media/bg11.91bd60a8.webp");
+    background-size: cover;
+    background-position: bottom center;
+    height: 400px;
+    width: 100%;
+}
+
+    #banner .content h1 {
+        border: 3px solid black;
+        position: relative;
+        top: 100px;
+        width: flex;
+        margin: 0 auto;
+        font-size: 100px;
+        font-family: Castellar;
+        font-weight: bold;
+    }
+
+#main {
+    margin: 0 auto;
+    text-align: left;
+    width: 100%;
+    height: 100px;
+}
+
+h1 {
+    color: black;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+h3 {
+    color: black;
+    font-size: 26px;
+    font-weight: 400;
+    padding: 0px 10px;
+}
+
+#main h6 {
+    color: black;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: Century;
+    height: 100px;
+    padding: 0px 10px;
+    color: white;
+    background-color: black;
+}
+
+h6 a{
+    color:white;
+    font-family:Calibri;
+}
+
+h6 a:hover{
+    color: deeppink;
+}
